@@ -69,7 +69,7 @@ function App() {
              ABOUT MY SELF : NDZIMA SIYAMTANDA
           </Typography>
           <Typography variant="h5" className={classes.littleSpace} color="primary">
-            Before applying for the Graduate Programme : software developer on Sovtech company, I spent time reading the job 
+            Before applying for the Graduate Programme : Junior Java Developer at Wonderlabz, I spent time reading the job 
             description and the person specification. I wanted to make sure I was both properly qualified for the role, 
             and I also had the appropriate experience and skills to drive the company forward.
             </Typography>
