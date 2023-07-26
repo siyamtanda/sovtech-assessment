@@ -65,14 +65,9 @@ function App() {
       <ThemeProvider theme={theme}>
         <NavBar/>
         <div className={classes.wrapper}>
-          <Typography variant="h4" className={classes.bigSpace} color="primary">
+          <Typography variant="h3" className={classes.bigSpace} color="primary">
              ABOUT MY SELF : NDZIMA SIYAMTANDA
           </Typography>
-          <Typography variant="h5" className={classes.littleSpace} color="primary">
-            Before applying for Junior Java Developer at Wonderlabz, I spent time reading the job 
-            description and the person specification. I wanted to make sure I was both properly qualified for the role, 
-            and I also had the appropriate experience and skills to drive the company forward.
-            </Typography>
             <Typography variant="h5" className={classes.littleSpace} color="primary">
             I am hard working, driven , technically astute and someone who will work closely with people within 
             your organization to achieve your commercial and financial objectives.
